@@ -1,0 +1,51 @@
+[{
+  "type": "flex",
+  "altText": "UFA911 เทสระบบ",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/05/15/HRzauI.jpg",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "UFABET911",
+        "weight": "bold",
+        "align": "center",
+        "size": "xxl"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://www.ufabet911.info/"
+        },
+        "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เเชร์เลย",
+          "uri": "http://linecorp.com/"
+        },
+        "style": "primary"
+      }
+    ],
+    "spacing": "sm"
+  }
+}
+}]
