@@ -1,0 +1,42 @@
+[{
+  "type": "flex",
+  "altText": "สนใจสมัครทักเลย",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/05/15/HRzauI.jpg",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ufabet911",
+        "weight": "bold",
+        "color": "#33FF00",
+        "align": "center",
+        "size": "xl"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://www.ufabet911.info/"
+        },
+        "style": "primary"
+      }
+    ]
+  }
+}
+}]
