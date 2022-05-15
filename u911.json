@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "สนใจสมัครทักเลย",
+  "altText": "You received a message",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -25,7 +25,7 @@
   },
   "footer": {
     "type": "box",
-    "layout": "vertical",
+    "layout": "horizontal",
     "contents": [
       {
         "type": "button",
@@ -35,8 +35,18 @@
           "uri": "https://www.ufabet911.info/"
         },
         "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เเชร์เลย",
+          "uri": "https://liff.line.me/1657134603-wvk20GLP?messages=https://sillyzeroclub99.github.io/flexmessage/u911.json"
+        },
+        "style": "primary"
       }
-    ]
+    ],
+    "spacing": "sm"
   }
 }
 }]
