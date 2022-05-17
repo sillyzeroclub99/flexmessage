@@ -1,0 +1,43 @@
+[{
+  "type": "flex",
+  "altText": "slotแตก จ่ายจริง!!!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/05/17/HQvqi8.png",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เว็บมั่นคง ฝากถอนเร็ว ต้องUFABET911.INFO",
+        "weight": "bold",
+        "style": "normal",
+        "position": "relative",
+        "decoration": "none",
+        "color": "#9900CC"
+      }
+    ]
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://www.ufabet911.info/"
+        },
+        "style": "primary"
+      }
+    ]
+  }
+}
+}]
